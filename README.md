@@ -2,14 +2,6 @@
 
 Projeto criado com as bibliotecas React JS e Material UI.
 
-## Passo-a-passo para execução
+![image](https://github.com/Marcos-Jose-DV/Todo_React/assets/122377502/52fc37da-f8c0-45d8-a85f-827f151602ae)
 
-1. Clonar o repositório
-2. Localmente, entrar na pasta do projeto e instalar as dependências:
-   `
-   npm install
-   `
-3. Executar a aplicação:
-   `
-   npm start
-   `
+![image](https://github.com/Marcos-Jose-DV/Todo_React/assets/122377502/55fbff4e-ddf6-4055-afc3-b708da0f8299)
